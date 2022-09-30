@@ -16,6 +16,8 @@
 			echo $yearnsection;
 			echo "<br>";
 			echo "<br>";
+			echo "Today, I will learn PHP programming";
+			echo "<br>";
 			echo "A filler text or string";
 			
 		?></center>
