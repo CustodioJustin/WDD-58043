@@ -9,7 +9,7 @@
 			$collegeprogram = "Computer Engineering";
 			$yearnsection = "3rd Year - 58043";
 			
-			echo $fullname;
+			echo "<b><i>",$fullname,"</i></b>";
 			echo "<br>";
 			echo $collegeprogram;
 			echo "<br>";
