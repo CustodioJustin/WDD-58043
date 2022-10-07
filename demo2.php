@@ -45,15 +45,24 @@
 		echo"<br>";*/ 
 		//while loop 
 		
-		while($a>=1)
+		/*while($a>=1)
 		{
 				echo "The number is: $a \n";
 				echo"<br>";
 				$a-=1;    //$a= $a-1
 		}
 		
-		
+		echo"<br>";*/
+		echo"Using Do while loop";
+		echo"<br>";
 		//do while loop
+		do
+		{
+				echo "The number is: $a \n";
+				echo"<br>";
+				$a-=1;    //$a= $a-1
+		}
+		while($a>=1);
 		
 		?>
 
