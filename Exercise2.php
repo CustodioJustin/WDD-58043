@@ -9,6 +9,7 @@
 		Student Subject Count: <input type="number" name="sbjcnt"><br>
 		Student Overall Grade: <input type="number" name="grd"><br>
 		<input type="submit" name="submit" value="Submit"><br><br>
+		</form>
 		
 		<h4>Student Evaluation Form</h4>
 		<?php
