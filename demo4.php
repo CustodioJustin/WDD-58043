@@ -13,6 +13,8 @@
 		//	echo "There's enoug fuel <br>";
 		//}
 		
+		
+		//Exercise 3 - 9
 		$x = 10;
 		do {
 			if ($x < 10 && $x >= 3) {
