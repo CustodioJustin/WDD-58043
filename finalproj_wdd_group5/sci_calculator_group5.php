@@ -13,6 +13,22 @@
 				text-align: center;
 			}
 			
+			.usermanual
+			{
+				border-radius: 20px;
+				width: 900px;
+				height: 550px;
+				background: #1c1c1c;
+			}
+			
+			.manualtxtbox
+			{
+				border-radius: 20px;
+				width: 800px;
+				height: 70px;
+				background: #161616;
+			}
+			
 			#output
 			{
 				width: 100%;
@@ -186,6 +202,50 @@
 		<font style="font-family:Arial; color:white">GROUP 5 - WDD</font>
 		</form>
 		</div>
+		
+		<br>
+		<br>
+		
+		<div class="usermanual">
+		<br>
+		<font style="font-family:Arial; color:white"><h3><b>User Manual</b></h3></font>
+		<center>
+			<div class="manualtxtbox">
+				<br>
+				<font style="font-family:Arial; color:white">
+					The Calculator function similarly as a standard Scientific Calculator.
+				</font>
+			</div>
+			<br>
+			<div class="manualtxtbox">
+				<br>
+				<font style="font-family:Arial; color:white">
+					Special opperand such as TAN, COS, etc requires to be inputted first before any values.
+				</font>
+			</div>
+			<br>
+			<div class="manualtxtbox">
+				<font style="font-family:Arial; color:white">
+				<br>
+					The Calculator has no fixed decimal places thus any number raised to the negative might result of a large quantity of  decimal places. ie 0.00001999..
+				</font>
+			</div>
+			<br>
+			<div class="manualtxtbox">
+				<font style="font-family:Arial; color:white">
+				<br>
+					Attempting to do multiplication using parenthesis () will not work and must be used with "*" symbol.
+				</font>
+			</div>
+			<br>
+			<div class="manualtxtbox">
+				<font style="font-family:Arial; color:white">
+				<br>
+					It is not possible to perform complicated mixed equation with factorial symbol "!" present.
+				</font>
+			</div>
 		</center>
+		</center>
+		
 	</body>
 </html>
